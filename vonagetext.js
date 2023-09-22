@@ -6,7 +6,7 @@ const vonage = new Vonage({
 })
 
 const from = "18285498832"
-const to = "2025702807"
+const to = "12025702807"
 const text = 'Let me know if you get this'
 
 async function sendSMS() {
@@ -16,3 +16,5 @@ async function sendSMS() {
 }
 
 sendSMS();
+
+console.log(status)
