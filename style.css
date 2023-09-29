@@ -138,7 +138,6 @@ form.chat .fromThem:before {
   height: 19px;
   border-left: 20px solid #E5E5EA;
   border-bottom-right-radius: 16px 14px;
-  -webkit-transform: translate(0, -2px);
   transform: translate(0, -2px);
   border-bottom-right-radius: 15px 0px\9;
   transform: translate(-1px, -2px)\9;
