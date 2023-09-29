@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vonage/server-sdk": "^3.9.3"
+  },
+  "type": "module"
+}
